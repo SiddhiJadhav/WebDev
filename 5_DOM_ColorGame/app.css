@@ -1,0 +1,42 @@
+body{
+	margin: 0px;
+	background-color: black;
+}
+#container{
+	max-width: 600px;
+	margin: 0 auto;
+}
+.square{
+	width: 30%;
+	background-color: purple;
+	margin: 1.5%;
+	padding-top: 30%;
+	float:left;
+}
+#header{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	color: white;
+	text-align: center;
+	background-color: steelblue;
+
+}
+#colorName{
+	font-size: 100px;
+}
+
+#strip{
+	text-align: center;
+	height: 30px;
+	background-color: white;
+	margin-bottom: 15px;
+}
+
+#btn{
+	background-color: white;
+	height: 100%;
+	border: none;
+}
+#btn:hover{
+	background-color: steelblue;
+}
